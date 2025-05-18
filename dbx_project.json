@@ -1,0 +1,23 @@
+{
+  "include": ["notebooks", "utils"],
+  "exclude": ["data", "output", "*.zip"],
+  "targets": {
+    "default": {
+      "jobs": {
+        "etl-clientes": {
+          "notebooks": [
+            {
+              "source": "notebooks/1_ingestao_bronze.py"
+            },
+            {
+              "source": "notebooks/2_transformacao_silver.py"
+            },
+            {
+              "source": "notebooks/3_analise_gold.py"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

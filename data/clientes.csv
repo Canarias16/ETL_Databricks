@@ -1,0 +1,151 @@
+id,nome,email,data_nascimento,estado
+1,Mara Amorim,coelhokevin@gmail.com,28/06/1986,activo
+2,Gil Nunes,jgoncalves@clix.pt,19/02/1955,inactivo
+3,Bryan Lopes,valentinaoliveira@leite.com,07/07/1954,activo
+4,João Araújo,alicia33@vaz.com,24/07/1979,pendente
+5,Carlos Valente,gasparyara@gmail.com,16/02/1998,activo
+6,Simão Leite,qfonseca@hotmail.com,11/01/1978,pendente
+7,Mário Campos,kellyamaral@gmail.com,23/03/2002,activo
+8,Enzo Baptista,qpereira@clix.pt,14/11/1988,activo
+9,Luciana Vicente,emiliareis@gaspar.com,11/11/1952,activo
+10,Iara Moura-Loureiro,bianca89@clix.pt,24/08/1969,inactivo
+11,Mário Carneiro,pinheiromia@sapo.pt,25/09/1990,inactivo
+12,Amélia do Freitas,zfreitas@clix.pt,21/06/2006,activo
+13,Íris Torres,david54@gmail.com,18/10/1958,activo
+14,Mélanie Morais,joao08@pacheco.com,23/02/2003,inactivo
+15,Gabriel do Magalhães,ncastro@moreira.pt,24/08/2002,inactivo
+16,Dinis Gonçalves,tassuncao@hotmail.com,12/02/1972,inactivo
+17,Artur Baptista,ramosbenjamim@clix.pt,15/02/1981,activo
+18,Luca Borges,qcosta@clix.pt,26/10/1972,activo
+19,Ivo Pinto-Antunes,mcunha@melo.pt,23/12/1998,inactivo
+20,Mafalda Loureiro,miriammonteiro@gmail.com,20/05/1974,pendente
+21,Lia Pereira,sagabriela@sapo.pt,13/10/1955,activo
+22,Catarina Macedo-Monteiro,matiasirina@silva.com,12/12/1954,inactivo
+23,Nuno Santos,jrodrigues@moreira.pt,24/11/1965,activo
+24,Iara Guerreiro,valentimsantos@sapo.pt,31/12/1959,activo
+25,Catarina Paiva,martim24@hotmail.com,07/07/1997,activo
+26,Vitória Oliveira,goncaloazevedo@clix.pt,29/12/1990,activo
+27,Luana Araújo,cardososofia@sa.com,06/10/1990,inactivo
+28,Francisca Mendes,flor46@hotmail.com,08/11/2005,activo
+29,Tiago Batista,sandronunes@campos.pt,04/02/1952,pendente
+30,Tatiana Baptista,miriam23@gaspar.pt,17/05/1988,inactivo
+31,Irina Coelho,renata38@soares.net,15/11/1969,activo
+32,Gonçalo Teixeira,yazevedo@clix.pt,03/08/1973,inactivo
+33,Constança Vaz,emanuelbarros@hotmail.com,29/05/1952,pendente
+34,Yara Moura,isaacteixeira@tavares.pt,21/04/1981,inactivo
+35,Érica do Andrade,isilva@sapo.pt,21/10/2000,pendente
+36,Mafalda Reis,williamcastro@sapo.pt,11/03/1996,inactivo
+37,Gonçalo Pinto,icardoso@gmail.com,21/06/1955,activo
+38,Diana Pinho,leiterita@gmail.com,25/11/1955,activo
+39,Salomé Borges,margaridavaz@gmail.com,19/10/1959,inactivo
+40,João Moreira,baptistacamila@gmail.com,11/03/1965,inactivo
+41,Iara-Íris Branco,ruisantos@hotmail.com,24/11/1981,activo
+42,Iara Pinto,victoriateixeira@hotmail.com,12/03/1994,inactivo
+43,Salomé Baptista,dsimoes@sapo.pt,16/02/1991,activo
+44,Lara Assunção,rcampos@matias.com,15/02/2003,activo
+45,Hugo Barbosa,figueiredokevin@campos.org,12/05/1997,activo
+46,Bruna Castro-Morais,salvadorsilva@clix.pt,12/04/1995,activo
+47,Ivo Esteves,joao56@moura.pt,02/07/1996,inactivo
+48,Alícia Santos,xavier12@lima.pt,29/08/1995,activo
+49,Bernardo do Faria,ibarbosa@cardoso.com,18/06/1952,activo
+50,Ana-Madalena Nogueira,marioteixeira@hotmail.com,16/11/1955,inactivo
+51,Artur Pereira,pachecolorena@hotmail.com,06/10/1957,inactivo
+52,Paulo Neto,acampos@sapo.pt,18/03/1953,activo
+53,Paulo Neto,tome51@hotmail.com,08/07/1997,inactivo
+54,Paulo Cunha,igor97@lima.pt,16/03/1997,inactivo
+55,Samuel Andrade,tcorreia@hotmail.com,03/01/1989,activo
+56,Hugo Fernandes,simoesadriana@almeida.pt,18/06/2002,activo
+57,Vicente Amaral,coelholia@carneiro.net,11/02/1958,pendente
+58,Valentim da Vicente,coelhoangela@assuncao.net,18/09/1968,inactivo
+59,Lorena Sá,alexandrapinheiro@clix.pt,26/12/1949,inactivo
+60,Sérgio Brito,matiasmiriam@pinto.com,15/05/1986,activo
+61,Kelly Correia-Sá,bruna46@costa.pt,28/10/1960,activo
+62,Petra Campos,ematos@rodrigues.net,23/11/1951,inactivo
+63,Soraia Borges,micaelcorreia@gmail.com,08/11/1951,inactivo
+64,Sandro do Maia,alveseduarda@machado.com,30/04/1985,activo
+65,Manuel Leite-Reis,leandromoreira@hotmail.com,25/02/1989,activo
+66,António Branco,cmartins@hotmail.com,28/02/1958,inactivo
+67,Alícia Paiva,helenaborges@silva.com,25/01/1951,pendente
+68,Sara Gonçalves-Leite,vitoria70@sapo.pt,09/07/1979,activo
+69,Emma-Yasmin Anjos,pilarmatias@batista.com,14/06/1949,activo
+70,Nicole Leal,rafael90@gmail.com,15/03/1996,activo
+71,Ivan Matos,carlotaamorim@pinho.com,17/10/1982,inactivo
+72,Íris Moreira,nevesana@assuncao.com,31/08/1955,activo
+73,Violeta Reis-Freitas,sarafaela@clix.pt,18/05/1960,activo
+74,Benjamim Matos,rodriguesirina@abreu.pt,23/08/1984,inactivo
+75,Paulo Pinho,ylima@carneiro.com,11/11/1987,pendente
+76,Renata-Kelly Pacheco,motafabiana@gmail.com,13/08/1984,activo
+77,Rita Teixeira,guilhermepaiva@nunes.org,30/10/1974,activo
+78,Fernando Baptista,nuriavieira@sapo.pt,25/03/1962,activo
+79,Victória Carvalho,guerreirodaniel@sapo.pt,08/04/1991,inactivo
+80,Erika Borges,martinsalvaro@sapo.pt,09/10/1972,activo
+81,Catarina Mendes,petrasantos@ferreira.com,21/10/1956,activo
+82,Martim Nascimento,pauloguerreiro@gmail.com,24/03/1992,activo
+83,Daniela da Abreu,qtorres@soares.org,20/04/1967,pendente
+84,Wilson Gomes-Monteiro,ocorreia@loureiro.net,24/05/1968,activo
+85,Renata Reis,machadovictoria@leite.pt,05/04/1963,activo
+86,Joana Neto,yfernandes@magalhaes.pt,23/01/1992,activo
+87,Salomé da Ferreira,wgoncalves@hotmail.com,28/11/1990,inactivo
+88,Lúcia Vieira-Monteiro,jferreira@matias.com,11/03/1977,activo
+89,Erica Garcia,ivo95@hotmail.com,30/10/1964,activo
+90,Benedita Neves,valentejulia@gmail.com,09/11/1958,inactivo
+91,Benjamim Pinto,lantunes@clix.pt,31/08/1986,activo
+92,Santiago Mota,sergio28@branco.org,13/02/1952,inactivo
+93,Melissa Barbosa,camila14@moura.com,01/02/1968,activo
+94,Joana-Flor Rocha,pazevedo@reis.com,01/11/1968,inactivo
+95,Eduarda Domingues-Andrade,luisacunha@assuncao.pt,30/08/1956,inactivo
+96,Melissa Barbosa,luana08@sapo.pt,29/11/1997,inactivo
+97,Sebastião Jesus,qcosta@sapo.pt,30/05/1953,activo
+98,Flor Sá,tatianacoelho@hotmail.com,20/02/1963,inactivo
+99,Valentim Rocha,amorimines@amaral.org,30/10/1998,pendente
+100,Érica Jesus,joana89@pinho.com,23/01/1972,activo
+101,Ariana do Torres,sandrobranco@vaz.pt,09/09/1961,activo
+102,Érica-Eva Vicente,vazluisa@carneiro.com,04/12/2002,activo
+103,Renata Moura-Marques,benjamim77@gaspar.com,10/06/1995,activo
+104,Catarina Soares,nadiabarros@gmail.com,02/10/1966,activo
+105,Valentina Matos,amelia11@sapo.pt,23/02/1980,activo
+106,Rafaela Abreu,correiakelly@hotmail.com,01/02/1987,activo
+107,Alice Assunção,leticiaribeiro@clix.pt,09/12/1981,activo
+108,Micael Assunção,sergiooliveira@ribeiro.org,01/11/1974,inactivo
+109,Pedro Carneiro,artur54@gmail.com,26/07/2001,activo
+110,Kelly Maia,fariabryan@batista.org,08/09/1964,activo
+111,Joel Batista,margaridaassuncao@moreira.org,27/09/1986,activo
+112,Salvador Cunha,beneditacarneiro@lourenco.com,07/01/1965,activo
+113,Pilar Batista,lucianateixeira@sapo.pt,15/09/1974,activo
+114,Rita Correia,petramartins@almeida.org,19/12/1950,inactivo
+115,Marcos Cunha,melohelena@clix.pt,11/06/2004,inactivo
+116,Matilde Gomes,edgarlopes@alves.org,08/10/2006,pendente
+117,Ivan Melo,ericateixeira@pinheiro.pt,27/08/1994,activo
+118,João Neto,tavaresmarta@gmail.com,21/12/1977,inactivo
+119,Laura Correia,cunhamelanie@clix.pt,27/09/1981,activo
+120,Sebastião da Barbosa,tatiana00@sapo.pt,12/01/1996,activo
+121,Maria Soares,wlima@esteves.com,06/04/1981,activo
+122,Érica-Benedita Santos,dborges@goncalves.pt,27/02/1977,pendente
+123,Mateus da Carvalho,beneditaaraujo@hotmail.com,07/09/1986,activo
+124,Benjamim Henriques,henriqueleite@magalhaes.pt,02/03/1998,activo
+125,Larissa Anjos-Marques,kbatista@almeida.pt,23/06/1995,activo
+126,Amélia da Pinto,cardosorenata@gmail.com,20/03/1994,activo
+127,Duarte do Branco,itavares@sapo.pt,05/05/1976,activo
+128,Xavier Loureiro,nunosilva@andrade.com,08/06/1965,activo
+129,Mélanie Magalhães,fsousa@sapo.pt,28/06/1999,activo
+130,Andreia Vieira,jpinho@hotmail.com,14/01/1994,activo
+131,Tatiana Freitas,zgaspar@freitas.com,13/09/1952,inactivo
+132,Luana Gonçalves,nadiabrito@sapo.pt,20/08/1972,activo
+133,Marco Pereira,gmorais@nascimento.net,17/02/1969,activo
+134,Luís Pinheiro,anjospilar@hotmail.com,14/02/1964,activo
+135,Lucas da Ferreira,mateus38@hotmail.com,28/04/1983,activo
+136,Vitória Branco,carlotacoelho@santos.pt,29/04/1975,activo
+137,Tomás Anjos,lauramartins@gmail.com,22/01/1957,activo
+138,Ângelo Cruz,icampos@gmail.com,16/09/1965,inactivo
+139,Maria Vicente,alvesmafalda@loureiro.com,03/02/1957,activo
+140,Violeta Rodrigues,melovicente@sapo.pt,21/12/1973,activo
+141,Mariana Mendes,beatriz76@gmail.com,17/12/1983,inactivo
+142,Eduarda Brito,fernandescarolina@gmail.com,17/04/1951,activo
+143,William Barbosa,nascimentokelly@pacheco.pt,16/06/2000,activo
+144,Jorge Maia,umagalhaes@reis.pt,18/06/2004,activo
+145,Fabiana Abreu,cardosomartim@henriques.com,12/07/1985,activo
+146,Rafael do Baptista,bernardo74@oliveira.org,26/02/1973,activo
+147,Caetana Teixeira,vasco70@miranda.org,20/11/1956,pendente
+148,Lara Matias,jaimeguerreiro@carvalho.net,31/05/1987,inactivo
+149,Júlia Monteiro,francisco88@hotmail.com,04/01/1973,inactivo
+150,Francisca Andrade,aliciasa@sapo.pt,09/10/1958,activo
