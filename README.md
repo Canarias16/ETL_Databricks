@@ -1,4 +1,4 @@
-# ETL de Clientes Avançado com Databricks
+# ETL de Clientes com Databricks
 
 Este projecto implementa uma pipeline ETL robusta com PySpark e Delta Lake, usando dados sintéticos de clientes.
 
